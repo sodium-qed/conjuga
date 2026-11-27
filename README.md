@@ -11,3 +11,7 @@ A browser-based Spanish verb conjugation practice app. Choose a tense and practi
 Use the optional **vosotros** and reflexive settings to tailor practice, or start the timed 32-question challenge. The page tracks points, level and streaks. Total points are saved in the browser's local storage; clearing site data or resetting progress removes them.
 
 Conjuga is a single HTML file with its scripts and styles included. It does not require an account, installation or an API key.
+
+## License
+
+Conjuga is available under the [MIT License](LICENSE).
